@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ChanMingPush" />
+        <module name="ChanMing-Push" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChanMing-Push" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.meizu.flyme:ups-java-sdk:1.0.1.20180418">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/meizu/flyme/ups-java-sdk/1.0.1.20180418/ups-java-sdk-1.0.1.20180418.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/meizu/flyme/ups-java-sdk/1.0.1.20180418/ups-java-sdk-1.0.1.20180418-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/meizu/flyme/ups-java-sdk/1.0.1.20180418/ups-java-sdk-1.0.1.20180418-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
